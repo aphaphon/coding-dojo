@@ -1,0 +1,9 @@
+@startuml
+
+class ProductInfo {
+   Id : string
+   Name : string
+   Price : double
+}
+
+@enduml

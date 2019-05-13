@@ -1,0 +1,8 @@
+@startuml
+
+class CartInfo {
+   TotalPrice : double
+   ProductIds : List<string>
+}
+
+@enduml
